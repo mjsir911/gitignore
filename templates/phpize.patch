@@ -1,0 +1,15 @@
+# https://www.php.net/manual/en/install.pecl.phpize.php
+# Generated source files from phpize
+/build/
+/configure.ac
+/run-tests.php
+/libtool
+/config.h
+/config.nice
+/Makefile.fragments
+/Makefile.objects
+
+### Autotools+strict Patch ###
+# Generated source files
+configure
+Makefile
